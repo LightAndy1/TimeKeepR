@@ -11,12 +11,19 @@ Your Discord companion for effortless time tracking and attendance management. S
 
 ## Usage
 
-1. Invite the bot to your Discord server using the following link: [Invite Link](https://discord.com/api/oauth2/authorize?client_id=1194633859518705714&permissions=68608&scope=bot+applications.commands)
+### Invite my bot
+
+You can either invite my existing bot using this [Invite Link](https://discord.com/api/oauth2/authorize?client_id=1194633859518705714&permissions=68608&scope=bot+applications.commands) or just run your own by following the [installation](#installation) and the [usage](#run-your-own) processes.
+
+### Run your own
+
+1. Invite the bot to your Discord server using the following link and replacing <YOUR_BOT_ID> with your bot's ID: [Invite Link](https://discord.com/api/oauth2/authorize?client_id=<YOUR_BOT_ID>&permissions=68608&scope=bot+applications.commands)
 2. Use the following commands to interact with the bot:
-   - `/help`: Show the list of available commands.
-   - `/start`: Start tracking time.
-   - `/stop`: Stop tracking time.
-   - `/summary`: Show the summary of tracked time.
+   - `/shifts setup add`: Adds the setup to the mongo database.
+   - `/shifts setup remove`: Removes the setup from the mongo database.
+   - `/shifts start`: Start your shift.
+   - `/shifts stop`: Stop your shift.
+   - `/shifts stats`: View your shift statistics.
 
 ## Contributing
 
