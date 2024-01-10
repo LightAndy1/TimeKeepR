@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/LightAndy1/TimeKeepR/issues"
   },
-  "homepage": "https://github.com/LightAndy1/TimeKeepR#readme"
+  "homepage": "https://github.com/LightAndy1/TimeKeepR#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.4",
+    "nodemon": "^3.0.2"
+  }
 }
