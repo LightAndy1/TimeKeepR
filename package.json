@@ -2,9 +2,10 @@
   "name": "timekeepr",
   "version": "1.0.0",
   "description": "Your Discord companion for effortless time tracking and attendance management. Stay organized and focused with seamless timekeeping features!",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
