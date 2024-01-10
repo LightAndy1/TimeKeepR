@@ -6,7 +6,7 @@ Your Discord companion for effortless time tracking and attendance management. S
 
 1. Clone the repository: `git clone https://github.com/LightAndy1/TimeKeepR.git`
 2. Install dependencies: `npm install`
-3. Set up your environment variables in a `.env` file (see `.env.example` for reference).
+3. Set up your environment variables in a `.env` file (see [`.env.example`](https://github.com/LightAndy1/TimeKeepR/blob/main/.env.example) for reference).
 4. Start the bot: `npm run start`
 
 ## Usage
