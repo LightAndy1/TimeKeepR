@@ -1,0 +1,15 @@
+{
+  "embedColorSuccess": "#00D26A",
+  "embedColorWarning": "#FFCC4D",
+  "embedColorErorr": "#FB2F61",
+  "embedErrorMessage": "`⚠️` An error has occured!",
+  "commandDevOnly": "`👨🏻‍💻` This command can only be executed by the developers!",
+  "commandTestMode": "`🧪` This command is in development and cannot be executed in this server.",
+  "commandPremiumOnly": "`💎` This command can only be executed by premium users!",
+  "userNoPermission": "`❌` You do not have enough permissions to execute this command.",
+  "botNoPermission": "`❌` I do not have enough permissions to execute this command.",
+  "hasHigherRolePosition": "`❌` This person has a higher role position than you!",
+  "unableToInteractWithYourself": "`❌` You cannot do that to yourself.",
+  "cannotUseButton": "`❌` You cannot use this button.",
+  "footerText": "Made with 🧡 by LightAndy"
+}
